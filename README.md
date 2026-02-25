@@ -1,1 +1,1 @@
-[Game Screenshot](TicTacToeScreen.png)
+![Game Screenshot](TicTacToeScreen.png)
